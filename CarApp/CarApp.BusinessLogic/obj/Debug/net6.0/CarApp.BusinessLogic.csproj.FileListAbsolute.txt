@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.BusinessLogic\bin\Debug\net6.0\CarApp.BusinessLogic.deps.json
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.BusinessLogic\bin\Debug\net6.0\CarApp.BusinessLogic.dll
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.BusinessLogic\bin\Debug\net6.0\CarApp.BusinessLogic.pdb
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.BusinessLogic\bin\Debug\net6.0\CarApp.Common.dll
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.BusinessLogic\bin\Debug\net6.0\CarApp.Common.pdb
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.BusinessLogic\obj\Debug\net6.0\CarApp.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.BusinessLogic\obj\Debug\net6.0\CarApp.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.BusinessLogic\obj\Debug\net6.0\CarApp.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.BusinessLogic\obj\Debug\net6.0\CarApp.BusinessLogic.AssemblyInfo.cs
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.BusinessLogic\obj\Debug\net6.0\CarApp.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.BusinessLogic\obj\Debug\net6.0\CarApp.BusinessLogic.csproj.CopyComplete
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.BusinessLogic\obj\Debug\net6.0\CarApp.BusinessLogic.dll
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.BusinessLogic\obj\Debug\net6.0\refint\CarApp.BusinessLogic.dll
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.BusinessLogic\obj\Debug\net6.0\CarApp.BusinessLogic.pdb
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.BusinessLogic\obj\Debug\net6.0\ref\CarApp.BusinessLogic.dll

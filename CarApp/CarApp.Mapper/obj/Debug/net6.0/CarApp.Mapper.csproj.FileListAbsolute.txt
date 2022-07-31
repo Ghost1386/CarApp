@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.Mapper\bin\Debug\net6.0\CarApp.Mapper.deps.json
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.Mapper\bin\Debug\net6.0\CarApp.Mapper.dll
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.Mapper\bin\Debug\net6.0\CarApp.Mapper.pdb
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.Mapper\bin\Debug\net6.0\CarApp.Common.dll
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.Mapper\bin\Debug\net6.0\CarApp.Common.pdb
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.Mapper\obj\Debug\net6.0\CarApp.Mapper.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.Mapper\obj\Debug\net6.0\CarApp.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.Mapper\obj\Debug\net6.0\CarApp.Mapper.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.Mapper\obj\Debug\net6.0\CarApp.Mapper.AssemblyInfo.cs
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.Mapper\obj\Debug\net6.0\CarApp.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.Mapper\obj\Debug\net6.0\CarApp.Mapper.csproj.CopyComplete
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.Mapper\obj\Debug\net6.0\CarApp.Mapper.dll
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.Mapper\obj\Debug\net6.0\refint\CarApp.Mapper.dll
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.Mapper\obj\Debug\net6.0\CarApp.Mapper.pdb
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.Mapper\obj\Debug\net6.0\ref\CarApp.Mapper.dll

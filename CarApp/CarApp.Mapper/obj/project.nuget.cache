@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "z1ZIllk2d0CD9OfKHPlg4q7tW1qEptRwZOkC4/GDfP62fb/BVs2sTye0CCF8N8S5qC5xsojVQ5tF0o87H7ccDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\CarApp\\CarApp\\CarApp.Mapper\\CarApp.Mapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
