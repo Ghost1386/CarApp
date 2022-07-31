@@ -43,6 +43,9 @@ public class UserService : IUserService
         user.Name= model.Name;
         user.Email = model.Email;
         user.Password = model.Password;
+
+        _carAppContext.Users.Add(user);
+        _carAppContext.SaveChanges();
     }
 
     public void Edit(UserEditViewModel model)
@@ -51,5 +54,8 @@ public class UserService : IUserService
 
         user.Name = model.Name;
         user.Email = model.Email;
+
+        _carAppContext.Update(user);
+        _carAppContext.SaveChanges();
     }
 }

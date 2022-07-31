@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.Parser\bin\Debug\net6.0\CarApp.Parser.deps.json
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.Parser\bin\Debug\net6.0\CarApp.Parser.dll
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.Parser\bin\Debug\net6.0\CarApp.Parser.pdb
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.Parser\obj\Debug\net6.0\CarApp.Parser.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.Parser\obj\Debug\net6.0\CarApp.Parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.Parser\obj\Debug\net6.0\CarApp.Parser.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.Parser\obj\Debug\net6.0\CarApp.Parser.AssemblyInfo.cs
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.Parser\obj\Debug\net6.0\CarApp.Parser.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.Parser\obj\Debug\net6.0\CarApp.Parser.dll
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.Parser\obj\Debug\net6.0\refint\CarApp.Parser.dll
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.Parser\obj\Debug\net6.0\CarApp.Parser.pdb
+C:\Users\user\Desktop\CarApp\CarApp\CarApp.Parser\obj\Debug\net6.0\ref\CarApp.Parser.dll

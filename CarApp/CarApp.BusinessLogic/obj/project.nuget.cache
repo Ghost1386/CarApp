@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "nEcipLygCHvsD7IXFcG9Z6JzlHzQ18H8bXZaX1N7dQosAK305aSZWcIZLDhhDTfbp/HnPEp/hAz4suX22kup5A==",
+  "dgSpecHash": "eQKutCsI7Gef9b8/YzWZEahAOawX0IGGNpAtZEpPiv+yUNmy1+6yPjnStoiP/VBpllN889vVv6Jrf48NyAsFYw==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\Desktop\\CarApp\\CarApp\\CarApp.BusinessLogic\\CarApp.BusinessLogic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\htmlagilitypack\\1.11.43\\htmlagilitypack.1.11.43.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.7\\microsoft.aspnetcore.authentication.jwtbearer.6.0.7.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

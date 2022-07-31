@@ -66,3 +66,6 @@ C:\Users\user\Desktop\CarApp\CarApp\CarApp\bin\Debug\net6.0\CarApp.Mapper.dll
 C:\Users\user\Desktop\CarApp\CarApp\CarApp\bin\Debug\net6.0\CarApp.Mapper.pdb
 C:\Users\user\Desktop\CarApp\CarApp\CarApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\user\Desktop\CarApp\CarApp\CarApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\CarApp\CarApp\CarApp\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\user\Desktop\CarApp\CarApp\CarApp\bin\Debug\net6.0\CarApp.Parser.dll
+C:\Users\user\Desktop\CarApp\CarApp\CarApp\bin\Debug\net6.0\CarApp.Parser.pdb

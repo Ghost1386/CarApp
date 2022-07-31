@@ -8,6 +8,8 @@
 
     <ItemGroup>
       <ProjectReference Include="..\CarApp.Common\CarApp.Common.csproj" />
+      <ProjectReference Include="..\CarApp.Parser\CarApp.Parser.csproj" />
+      <ProjectReference Include="..\CarApp.WebParser\CarApp.WebParser.csproj" />
     </ItemGroup>
 
     <ItemGroup>

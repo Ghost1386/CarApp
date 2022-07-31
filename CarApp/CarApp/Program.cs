@@ -4,6 +4,7 @@ using CarApp.BusinessLogic;
 using CarApp.BusinessLogic.Interfaces;
 using CarApp.BusinessLogic.Services;
 using CarApp.Mapper;
+using CarApp.Parser;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
@@ -27,7 +28,9 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJw
 
 builder.Services.AddDbContext<CarAppContext>(options => options.UseSqlServer(connection));
 builder.Services.AddTransient<IAuthService, AuthService>();
+builder.Services.AddTransient<ICarService, CarService>();
 builder.Services.AddTransient<IUserService, UserService>();
+builder.Services.AddTransient<Parser>();
 
 builder.Services.AddControllers();
 
