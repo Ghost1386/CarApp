@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zz05huj5LMKvKfUAA4tjezVdZwU8RqiP+aHzyWq+1wIiUHRN6Me50BCUPgAiDRWtur9EtLXo/VCpBXCnX7pmPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\CarApp\\CarApp\\CarApp.Parser\\CarApp.Parser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\htmlagilitypack\\1.11.43\\htmlagilitypack.1.11.43.nupkg.sha512"
+  ],
+  "logs": []
+}
