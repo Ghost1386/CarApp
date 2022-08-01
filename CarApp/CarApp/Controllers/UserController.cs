@@ -16,33 +16,33 @@ public class UserController : ControllerBase
     }
     
     [HttpGet]
-    public IActionResult GetAllUser()
+    public IActionResult Get()
     {
-        return Ok(_userService.GetUsers());
+        return Ok(_userService.Get());
     }
     
     [HttpGet("{id}")]
-    public IActionResult GetUser(int id)
+    public IActionResult Get(int id)
     {
-        return Ok(_userService.GetUser(id));
+        return Ok(_userService.Get(id));
     }
     
     [HttpPost]
-    public IActionResult CreateUser(UserCreateViewModel model)
+    public IActionResult Post(UserCreateViewModel model)
     {
         _userService.Create(model);
         return Ok();
     }
     
     [HttpDelete]
-    public IActionResult DeleteUser(int id)
+    public IActionResult Delete(int id)
     {
         _userService.Delete(id);
         return Ok();
     }
     
     [HttpPut]
-    public IActionResult EditUser(UserEditViewModel model)
+    public IActionResult Put(UserEditViewModel model)
     {
         _userService.Edit(model);
         return Ok();

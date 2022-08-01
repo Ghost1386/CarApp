@@ -4,7 +4,7 @@ namespace CarApp.BusinessLogic.Interfaces;
 
 public interface ICarService
 {
-    IEnumerable<Car> GetCars();
+    IEnumerable<Car> Get();
 
-    void AddAllCars();
+    void AddAll();
 }

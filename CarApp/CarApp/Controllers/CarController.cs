@@ -15,15 +15,15 @@ public class CarController : ControllerBase
     }
     
     [HttpGet]
-    public IActionResult GetAllCar()
+    public IActionResult Get()
     {
-        return Ok(_carService.GetCars());
+        return Ok(_carService.Get());
     }
     
     [HttpPost]
-    public IActionResult AddCar()
+    public IActionResult Post()
     {
-        _carService.AddAllCars();
+        _carService.AddAll();
         return Ok();
     }
 }

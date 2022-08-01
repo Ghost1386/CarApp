@@ -7,68 +7,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7827a91-7175-42aa-abca-24c0846cf574" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CarApi.Parser/CarApi.Parser.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CarApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CarApp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp.BusinessLogic/CarApp.BusinessLogic.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.BusinessLogic/CarApp.BusinessLogic.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarApp.BusinessLogic/Interfaces/ICarService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.BusinessLogic/Interfaces/ICarService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarApp.BusinessLogic/Interfaces/IUserService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.BusinessLogic/Interfaces/IUserService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarApp.BusinessLogic/Services/CarService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.BusinessLogic/Services/CarService.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarApp.BusinessLogic/Services/UserService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.BusinessLogic/Services/UserService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp.BusinessLogic/bin/Debug/net6.0/CarApp.BusinessLogic.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.BusinessLogic/bin/Debug/net6.0/CarApp.BusinessLogic.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp.BusinessLogic/bin/Debug/net6.0/CarApp.BusinessLogic.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.BusinessLogic/bin/Debug/net6.0/CarApp.BusinessLogic.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp.BusinessLogic/bin/Debug/net6.0/CarApp.BusinessLogic.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.BusinessLogic/bin/Debug/net6.0/CarApp.BusinessLogic.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp.BusinessLogic/bin/Debug/net6.0/CarApp.Common.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.BusinessLogic/bin/Debug/net6.0/CarApp.Common.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp.BusinessLogic/bin/Debug/net6.0/CarApp.Common.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.BusinessLogic/bin/Debug/net6.0/CarApp.Common.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp.BusinessLogic/obj/CarApp.BusinessLogic.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.BusinessLogic/obj/CarApp.BusinessLogic.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp.BusinessLogic/obj/Debug/net6.0/CarApp.BusinessLogic.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.BusinessLogic/obj/Debug/net6.0/CarApp.BusinessLogic.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarApp.BusinessLogic/obj/Debug/net6.0/CarApp.BusinessLogic.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.BusinessLogic/obj/Debug/net6.0/CarApp.BusinessLogic.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp.BusinessLogic/obj/Debug/net6.0/CarApp.BusinessLogic.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.BusinessLogic/obj/Debug/net6.0/CarApp.BusinessLogic.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp.BusinessLogic/obj/Debug/net6.0/CarApp.BusinessLogic.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.BusinessLogic/obj/Debug/net6.0/CarApp.BusinessLogic.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp.BusinessLogic/obj/Debug/net6.0/CarApp.BusinessLogic.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.BusinessLogic/obj/Debug/net6.0/CarApp.BusinessLogic.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp.BusinessLogic/obj/Debug/net6.0/CarApp.BusinessLogic.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.BusinessLogic/obj/Debug/net6.0/CarApp.BusinessLogic.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp.BusinessLogic/obj/Debug/net6.0/ref/CarApp.BusinessLogic.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.BusinessLogic/obj/Debug/net6.0/ref/CarApp.BusinessLogic.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp.BusinessLogic/obj/Debug/net6.0/refint/CarApp.BusinessLogic.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.BusinessLogic/obj/Debug/net6.0/refint/CarApp.BusinessLogic.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp.BusinessLogic/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.BusinessLogic/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp.BusinessLogic/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.BusinessLogic/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp.BusinessLogic/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.BusinessLogic/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarApp.BusinessLogic/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.BusinessLogic/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp.Common/Models/Car.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.Common/Models/Car.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp.Common/bin/Debug/net6.0/CarApp.Common.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.Common/bin/Debug/net6.0/CarApp.Common.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp.Common/bin/Debug/net6.0/CarApp.Common.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.Common/bin/Debug/net6.0/CarApp.Common.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp.Common/obj/Debug/net6.0/CarApp.Common.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.Common/obj/Debug/net6.0/CarApp.Common.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp.Common/obj/Debug/net6.0/CarApp.Common.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.Common/obj/Debug/net6.0/CarApp.Common.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp.Common/obj/Debug/net6.0/ref/CarApp.Common.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.Common/obj/Debug/net6.0/ref/CarApp.Common.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp.Common/obj/Debug/net6.0/refint/CarApp.Common.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.Common/obj/Debug/net6.0/refint/CarApp.Common.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarApp.Common/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.Common/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp.Mapper/bin/Debug/net6.0/CarApp.Common.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.Mapper/bin/Debug/net6.0/CarApp.Common.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp.Mapper/bin/Debug/net6.0/CarApp.Common.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.Mapper/bin/Debug/net6.0/CarApp.Common.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp.Mapper/bin/Debug/net6.0/CarApp.Mapper.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.Mapper/bin/Debug/net6.0/CarApp.Mapper.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp.Mapper/bin/Debug/net6.0/CarApp.Mapper.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.Mapper/bin/Debug/net6.0/CarApp.Mapper.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarApp.Mapper/obj/Debug/net6.0/CarApp.Mapper.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.Mapper/obj/Debug/net6.0/CarApp.Mapper.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp.Mapper/obj/Debug/net6.0/CarApp.Mapper.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.Mapper/obj/Debug/net6.0/CarApp.Mapper.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp.Mapper/obj/Debug/net6.0/CarApp.Mapper.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.Mapper/obj/Debug/net6.0/CarApp.Mapper.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarApp.Mapper/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.Mapper/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp.sln" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp/bin/Debug/net6.0/CarApp.Api.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp/bin/Debug/net6.0/CarApp.Api.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp/bin/Debug/net6.0/CarApp.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp/bin/Debug/net6.0/CarApp.Api.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp/bin/Debug/net6.0/CarApp.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp/bin/Debug/net6.0/CarApp.Api.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp/bin/Debug/net6.0/CarApp.BusinessLogic.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp/bin/Debug/net6.0/CarApp.BusinessLogic.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp/bin/Debug/net6.0/CarApp.BusinessLogic.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp/bin/Debug/net6.0/CarApp.BusinessLogic.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp/bin/Debug/net6.0/CarApp.Common.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp/bin/Debug/net6.0/CarApp.Common.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp/bin/Debug/net6.0/CarApp.Common.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp/bin/Debug/net6.0/CarApp.Common.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp/bin/Debug/net6.0/CarApp.Mapper.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp/bin/Debug/net6.0/CarApp.Mapper.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp/bin/Debug/net6.0/CarApp.Mapper.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp/bin/Debug/net6.0/CarApp.Mapper.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp/obj/CarApp.Api.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp/obj/CarApp.Api.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp/obj/Debug/net6.0/CarApp.Api.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp/obj/Debug/net6.0/CarApp.Api.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarApp.Parser/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp.Parser/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarApp/Controllers/CarController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp/Controllers/CarController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarApp/Controllers/UserController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp/Controllers/UserController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarApp/obj/Debug/net6.0/CarApp.Api.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp/obj/Debug/net6.0/CarApp.Api.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp/obj/Debug/net6.0/CarApp.Api.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp/obj/Debug/net6.0/CarApp.Api.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp/obj/Debug/net6.0/CarApp.Api.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp/obj/Debug/net6.0/CarApp.Api.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp/obj/Debug/net6.0/CarApp.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp/obj/Debug/net6.0/CarApp.Api.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp/obj/Debug/net6.0/CarApp.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp/obj/Debug/net6.0/CarApp.Api.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp/obj/Debug/net6.0/ref/CarApp.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp/obj/Debug/net6.0/ref/CarApp.Api.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp/obj/Debug/net6.0/refint/CarApp.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp/obj/Debug/net6.0/refint/CarApp.Api.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarApp/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarApp/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/CarApp/obj/staticwebassets.pack.sentinel" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +65,6 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/eea06429a9cd2498c4e6ea51173cfd340621cc0b22b4dbd89fd42cb1e18efc/StringValues.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/f5b1a8bb573d80d0f3671ab1928a74398beb940d82f812c8a8a3db579d665/AuthenticationSchemeOptions.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CarApp.BusinessLogic/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CarApp.Dependencies/Dependencies.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CarApp/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -201,6 +153,7 @@
       <workItem from="1659216939042" duration="8524000" />
       <workItem from="1659251807503" duration="4961000" />
       <workItem from="1659263575243" duration="3230000" />
+      <workItem from="1659368986909" duration="1284000" />
     </task>
     <task id="LOCAL-00001" summary="add start files">
       <created>1659111770480</created>

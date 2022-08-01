@@ -5,9 +5,9 @@ namespace CarApp.BusinessLogic.Interfaces;
 
 public interface IUserService
 {
-    IEnumerable<User> GetUsers();
+    IEnumerable<User> Get();
         
-    IQueryable<User> GetUser(int id);
+    IQueryable<User> Get(int id);
 
     void Delete(int id);
 

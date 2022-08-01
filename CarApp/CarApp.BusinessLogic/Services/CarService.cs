@@ -14,12 +14,12 @@ public class CarService : ICarService
         _parser = parser;
     }
     
-    public IEnumerable<Car> GetCars()
+    public IEnumerable<Car> Get()
     {
         return _carAppContext.Cars.ToList();
     }
 
-    public void AddAllCars()
+    public void AddAll()
     {
         var CarList = _parser.GetInfo();
 

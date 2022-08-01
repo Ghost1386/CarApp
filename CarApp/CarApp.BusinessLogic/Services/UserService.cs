@@ -17,19 +17,19 @@ public class UserService : IUserService
         _mapper = mapper;
     }
     
-    public IEnumerable<User> GetUsers()
+    public IEnumerable<User> Get()
     {
         return _carAppContext.Users.ToList();
     }
 
-    public IQueryable<User> GetUser(int id)
+    public IQueryable<User> Get(int id)
     {
         return _carAppContext.Users.Where(x => x.Id == id);
     }
 
     public void Delete(int id)
     {
-        _carAppContext.Users.Remove(GetUser(id).FirstOrDefault());
+        _carAppContext.Users.Remove(Get(id).FirstOrDefault());
         _carAppContext.SaveChanges();
     }
 
